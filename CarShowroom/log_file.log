@@ -1,0 +1,130 @@
+2019-04-14 23:40:44 INFO  root:12 - 
+Parking: 
+---------------
+Porsche
+
+Price - 30000$
+Body type - SUV
+Number of passenger - 5
+Type of drive - All-wheel drive
+Type of gearbox - Auto
+Model - CAYENNE
+
+---------------
+Porsche
+
+Price - 25000$
+Body type - Hatchback
+Number of passenger - 5
+Type of drive - All-wheel drive
+Type of gearbox - Auto
+Model - PANAMERA
+
+---------------
+MAN
+
+Price - 15000$
+Body type - Auto transporter
+Load capacity - 30
+Fuel tank capacity - 400.6l
+Vehicle type - Tipper
+Transport color - BLACK
+
+---------------
+
+2019-04-14 23:40:44 INFO  root:12 - 
+Buyer
+Name - Anatoly
+Money - 40000$
+
+2019-04-14 23:40:44 INFO  root:12 - Will buy: Porsche
+2019-04-14 23:40:44 INFO  root:12 - Car showroom profit - 30000$
+2019-04-14 23:40:44 INFO  root:12 - 
+Parking: 
+---------------
+Porsche
+
+Price - 25000$
+Body type - Hatchback
+Number of passenger - 5
+Type of drive - All-wheel drive
+Type of gearbox - Auto
+Model - PANAMERA
+
+---------------
+MAN
+
+Price - 15000$
+Body type - Auto transporter
+Load capacity - 30
+Fuel tank capacity - 400.6l
+Vehicle type - Tipper
+Transport color - BLACK
+
+---------------
+
+2019-05-26 16:06:42 INFO  root:13 - 
+Parking: 
+---------------
+Porsche
+
+Price - 30000$
+Body type - SUV
+Number of passenger - 5
+Type of drive - All-wheel drive
+Type of gearbox - Auto
+Model - CAYENNE
+
+---------------
+Porsche
+
+Price - 25000$
+Body type - Hatchback
+Number of passenger - 5
+Type of drive - All-wheel drive
+Type of gearbox - Auto
+Model - PANAMERA
+
+---------------
+MAN
+
+Price - 15000$
+Body type - Auto transporter
+Load capacity - 30
+Fuel tank capacity - 400.6l
+Vehicle type - Tipper
+Transport color - BLACK
+
+---------------
+
+2019-05-26 16:06:42 INFO  root:13 - 
+Buyer
+Name - Anatoly
+Money - 40000$
+
+2019-05-26 16:06:42 INFO  root:13 - Will buy: Porsche
+2019-05-26 16:06:42 INFO  root:13 - Car showroom profit - 30000$
+2019-05-26 16:06:42 INFO  root:13 - 
+Parking: 
+---------------
+Porsche
+
+Price - 25000$
+Body type - Hatchback
+Number of passenger - 5
+Type of drive - All-wheel drive
+Type of gearbox - Auto
+Model - PANAMERA
+
+---------------
+MAN
+
+Price - 15000$
+Body type - Auto transporter
+Load capacity - 30
+Fuel tank capacity - 400.6l
+Vehicle type - Tipper
+Transport color - BLACK
+
+---------------
+

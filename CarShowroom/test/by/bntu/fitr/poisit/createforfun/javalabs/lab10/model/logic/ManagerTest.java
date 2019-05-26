@@ -3,16 +3,16 @@ package by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.logic;
 import by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.container.ParkingImpl;
 import by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.entity.Buyer;
 import by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.entity.Transport;
-import by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.entity.transports.car.MAN;
-import by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.entity.transports.car.Porsche;
+import by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.entity.transports.cars.MAN;
+import by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.entity.transports.cars.Porsche;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-import static by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.entity.transports.car.PorscheModel.CAYENNE;
-import static by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.entity.transports.car.PorscheModel.PANAMERA;
-import static by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.entity.transports.car.TransportColor.BLACK;
+import static by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.entity.transports.cars.PorscheModel.CAYENNE;
+import static by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.entity.transports.cars.PorscheModel.PANAMERA;
+import static by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.entity.transports.cars.TransportColor.BLACK;
 
 public class ManagerTest {
 
@@ -23,9 +23,9 @@ public class ManagerTest {
 
     @Before
     public void init() {
-        Porsche porsche = new Porsche(30000, "SUV", 5, "All-wheel drive", "Auto", CAYENNE);
-        Porsche porsche1 = new Porsche(25000, "Hatchback", 5, "All-wheel drive", "Auto", PANAMERA);
-        MAN man = new MAN(15000, "Auto transporter", 30, 400.6, "Tipper", BLACK);
+        Porsche porsche = new Porsche(30000, "SUV", 5,2009, "All-wheel drive", "Auto", CAYENNE);
+        Porsche porsche1 = new Porsche(25000, "Hatchback", 5,2007, "All-wheel drive", "Auto", PANAMERA);
+        MAN man = new MAN(15000, "Auto transporter", 30,2000, 400.6, "Tipper", BLACK);
 
         parking = new ParkingImpl();
         parking.addAll(new Transport[]{porsche, porsche1, man});

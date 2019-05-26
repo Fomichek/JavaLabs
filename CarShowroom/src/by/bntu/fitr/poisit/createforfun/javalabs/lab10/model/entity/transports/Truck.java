@@ -12,8 +12,8 @@ public class Truck extends Transport {
         loadCapacity = 0;
     }
 
-    public Truck(int price, String bodyType, int loadCapacity) {
-        super(price, bodyType);
+    public Truck(int price, String bodyType,int year, int loadCapacity) {
+        super(price, bodyType, year);
         this.loadCapacity = loadCapacity;
     }
 
@@ -41,8 +41,6 @@ public class Truck extends Transport {
 
     @Override
     public String toString() {
-        StringBuilder builder = new StringBuilder();
-        builder.append(super.toString()).append("\nLoad capacity - ").append(loadCapacity);
-        return builder.toString();
+        return super.toString() + "\nLoad capacity - " + loadCapacity;
     }
 }

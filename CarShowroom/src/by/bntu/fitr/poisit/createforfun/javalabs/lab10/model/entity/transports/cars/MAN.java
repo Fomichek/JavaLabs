@@ -16,8 +16,8 @@ public class MAN extends Truck {
         transportColor = TransportColor.BLACK;
     }
 
-    public MAN(int price, String bodyType, int loadCapacity, double fuelTankCapacity, String vehicleType, TransportColor transportColor) {
-        super(price, bodyType, loadCapacity);
+    public MAN(int price, String bodyType, int loadCapacity, int year, double fuelTankCapacity, String vehicleType, TransportColor transportColor) {
+        super(price, bodyType, loadCapacity, year);
         this.fuelTankCapacity = fuelTankCapacity;
         this.vehicleType = vehicleType;
         this.transportColor = transportColor;
@@ -65,9 +65,7 @@ public class MAN extends Truck {
 
     @Override
     public String toString() {
-        StringBuilder builder = new StringBuilder("MAN\n");
-        builder.append(super.toString()).append("\nFuel tank capacity - ").append(fuelTankCapacity).append("l\nVehicle type - ").append(vehicleType).
-                append("\nTransport color - ").append(transportColor).append("\n");
-        return builder.toString();
+        return "MAN\n" + super.toString() + "\nFuel tank capacity - " + fuelTankCapacity + "l\nVehicle type - " +
+                vehicleType + "\nTransport color - " + transportColor + "\n";
     }
 }

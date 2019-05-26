@@ -12,7 +12,7 @@ public class PassengerCar extends Transport {
         numberOfPassenger = 0;
     }
 
-    public PassengerCar(int price, String bodyType, int numberOfPassenger, int year) {
+    public PassengerCar(int price, String bodyType,int year, int numberOfPassenger) {
         super(price, bodyType, year);
         this.numberOfPassenger = numberOfPassenger;
     }
@@ -46,8 +46,6 @@ public class PassengerCar extends Transport {
 
     @Override
     public String toString() {
-        StringBuilder builder = new StringBuilder();
-        builder.append(super.toString()).append("\nNumber of passenger - ").append(numberOfPassenger);
-        return builder.toString();
+        return super.toString() + "\nNumber of passenger - " + numberOfPassenger;
     }
 }

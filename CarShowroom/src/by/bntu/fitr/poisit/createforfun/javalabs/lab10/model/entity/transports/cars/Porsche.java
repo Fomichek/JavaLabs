@@ -16,8 +16,8 @@ public class Porsche extends PassengerCar {
         porscheModel = PorscheModel.BOXSTER;
     }
 
-    public Porsche(int price, String bodyType,int year,
-            int numberOfPassenger, String typeOfDrive, 
+    public Porsche(int price, String bodyType,
+            int numberOfPassenger,int year, String typeOfDrive,
             String typeOfGearbox, PorscheModel porscheModel) {
         super(price, bodyType, numberOfPassenger, year);
         this.typeOfDrive = typeOfDrive;
@@ -55,9 +55,7 @@ public class Porsche extends PassengerCar {
 
     @Override
     public String toString() {
-        StringBuilder builder = new StringBuilder("Porsche\n");
-        builder.append(super.toString()).append("\nType of drive - ").append(typeOfDrive).append("\nType of gearbox - ").append(typeOfGearbox).
-                append("\nModel - ").append(porscheModel).append("\n");
-        return builder.toString();
+        return "Porsche\n" + super.toString() + "\nType of drive - " + typeOfDrive + "\nType of gearbox - " +
+                typeOfGearbox + "\nModel - " + porscheModel + "\n";
     }
 }

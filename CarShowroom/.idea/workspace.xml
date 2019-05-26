@@ -2,41 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a4231e5-cfd6-4933-b726-fbace5d34de0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Task6/src/by/bntu/fitr/poisit/anatolyfomich/task6/view/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarShowroom.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CarShowroom.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log_file.log" beforeDir="false" afterPath="$PROJECT_DIR$/log_file.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CarShowroom/META-INF/CarShowroom.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CarShowroom/by/bntu/fitr/poisit/createforfun/javalabs/lab10/controller/CarShowroom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CarShowroom/by/bntu/fitr/poisit/createforfun/javalabs/lab10/controller/CarShowroom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CarShowroom/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/container/Parking.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CarShowroom/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/container/Parking.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CarShowroom/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/container/ParkingImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CarShowroom/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/container/ParkingImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CarShowroom/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/Buyer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CarShowroom/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/Buyer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CarShowroom/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/Transport.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CarShowroom/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/Transport.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CarShowroom/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/PassengerCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CarShowroom/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/PassengerCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CarShowroom/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/Truck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CarShowroom/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/Truck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CarShowroom/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/cars/Man.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CarShowroom/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/cars/Porsche.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CarShowroom/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/cars/PorscheModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CarShowroom/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/cars/TransportColor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CarShowroom/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/logic/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CarShowroom/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/logic/Manager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CarShowroom/by/bntu/fitr/poisit/createforfun/javalabs/lab10/view/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CarShowroom/by/bntu/fitr/poisit/createforfun/javalabs/lab10/view/Printer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/CarShowroom/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/logic/ManagerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/CarShowroom/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/logic/ManagerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/controller/CarShowroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/controller/CarShowroom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/Buyer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/Buyer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/Transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/Transport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/PassengerCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/PassengerCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/Truck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/cars/Man.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/cars/Porsche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/car/Porsche.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/cars/PorscheModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/car/PorscheModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/cars/TransportColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/car/TransportColor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/logic/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/logic/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/view/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/view/ConsolePrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/logic/ManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/logic/ManagerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab_10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_10/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/car/MAN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/car/Porsche.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/car/PorscheModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/car/TransportColor.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,27 +21,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/view/ConsolePrinter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-              <folding>
-                <element signature="e#173#174#0" expanded="true" />
-                <element signature="e#212#213#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/view/Log4jPrinter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding>
-                <element signature="e#261#262#0" expanded="true" />
-                <element signature="e#290#291#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -89,7 +41,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/Buyer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
+            <state relative-caret-position="595">
               <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
             </state>
           </provider>
@@ -108,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/InsuranceCompany.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -116,8 +68,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/Transport.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="442">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -125,8 +77,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/Insurance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/cars/MAN.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -190,9 +151,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -200,8 +161,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -272,7 +231,7 @@
               <item name="model" type="462c0819:PsiDirectoryNode" />
               <item name="entity" type="462c0819:PsiDirectoryNode" />
               <item name="transports" type="462c0819:PsiDirectoryNode" />
-              <item name="car" type="462c0819:PsiDirectoryNode" />
+              <item name="cars" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CarShowroom" type="b2602c69:ProjectViewProjectNode" />
@@ -308,6 +267,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -477,7 +438,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.18926175" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19194631" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -583,29 +544,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/car/Porsche.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/car/MAN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/view/qw.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/view/qwerty.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/view/qw.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/view/qwerty.java" />
     <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/car/PorscheModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -641,13 +581,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/view/Log4jWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/view/Log4jWriter.java" />
     <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/controller/CarShowroom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
@@ -687,55 +621,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/comparator/CostComparator.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/comparator/CostComparator.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/comparator/YearComparator.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/repository/Repository.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/repository/TransportRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/specification/BodyTypeSpecification.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/specification/CostSpecification.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/specification/FromCostSpecification.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/view/ConsolePrinter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/comparator/YearComparator.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/repository/Repository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/repository/TransportRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/specification/BodyTypeSpecification.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/specification/CostSpecification.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/specification/FromCostSpecification.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/view/Printer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="85">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -750,20 +646,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/view/ConsolePrinter.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/view/Printer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/Buyer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
+        <state relative-caret-position="595">
           <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
         </state>
       </provider>
@@ -778,21 +670,45 @@
     <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/InsuranceCompany.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/Transport.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="442">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/cars/MAN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/car/MAN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/transports/car/Porsche.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/poisit/createforfun/javalabs/lab10/model/entity/Insurance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>

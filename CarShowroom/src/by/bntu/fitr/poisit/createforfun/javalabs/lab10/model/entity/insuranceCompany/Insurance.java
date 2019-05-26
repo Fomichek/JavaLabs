@@ -1,4 +1,7 @@
-package by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.entity;
+package by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.entity.insuranceCompany;
+
+import by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.entity.AccessoryDecorator;
+import by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.entity.Transport;
 
 public class Insurance extends AccessoryDecorator {
     private Transport transport;

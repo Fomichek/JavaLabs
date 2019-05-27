@@ -24,6 +24,11 @@ public class Porsche extends PassengerCar {
         this.typeOfGearbox = typeOfGearbox;
         this.porscheModel = porscheModel;
     }
+    public Porsche(Porsche porsche){
+        typeOfDrive = porsche.typeOfDrive;
+        typeOfGearbox = porsche.typeOfGearbox;
+        porscheModel = porsche.porscheModel;
+    }
 
     public String getTypeOfDrive() {
         return typeOfDrive;

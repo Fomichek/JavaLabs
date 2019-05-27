@@ -20,6 +20,11 @@ public class Buyer {
         this.name = name;
         this.money = money;
     }
+    public Buyer(Buyer buyer){
+        garage = buyer.garage;
+        name = buyer.name;
+        money = buyer.money;
+    }
 
     public ParkingImpl getGarage() {
         return garage;

@@ -19,7 +19,7 @@ public class PassengerCar extends Transport {
     
     public PassengerCar(PassengerCar passengerCar){
 
-        this.numberOfPassenger = passengerCar.numberOfPassenger;
+        numberOfPassenger = passengerCar.numberOfPassenger;
     }
     
     public int getNumberOfPassenger() {

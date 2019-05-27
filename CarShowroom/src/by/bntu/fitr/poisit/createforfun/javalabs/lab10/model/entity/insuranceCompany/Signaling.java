@@ -1,14 +1,14 @@
 package by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.entity.insuranceCompany;
 
+
 import by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.entity.Transport;
 
-public class Insurance extends AccessoryDecorator {
+public class Signaling extends AccessoryDecorator {
     private Transport transport;
-    private int cost;
+    private final int COST = 50;
 
-    public Insurance(Transport transport, int cost) {
+    public Signaling(Transport transport) {
         this.transport = transport;
-        this.cost = cost;
     }
 
     public Transport getTransport() {
@@ -21,13 +21,13 @@ public class Insurance extends AccessoryDecorator {
 
     @Override
     public int getprice() {
-        return this.transport.getPrice() + this.cost;
+        return this.transport.getPrice() + this.COST;
     }
 
     @Override
     public String toString() {
         StringBuilder builder = new StringBuilder();
-        builder.append(this.transport.toString()).append(" + insurance:").append(cost);
+        builder.append(this.transport.toString()).append(" + signaling:").append(COST);
         return builder.toString();
     }
 }

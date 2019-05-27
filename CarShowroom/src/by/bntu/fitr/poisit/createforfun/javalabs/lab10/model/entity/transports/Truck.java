@@ -16,6 +16,9 @@ public class Truck extends Transport {
         super(price, bodyType, year);
         this.loadCapacity = loadCapacity;
     }
+    public Truck(Truck truck){
+        loadCapacity = truck.loadCapacity;
+    }
 
     public int getLoadCapacity() {
         return loadCapacity;

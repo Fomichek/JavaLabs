@@ -1,0 +1,12 @@
+package by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.exception;
+
+public class CustomException extends Exception{
+
+    public CustomException(String message) {
+        super(message);
+    }
+
+    public CustomException(String message, Throwable cause) {
+        super(message, cause);
+    }
+}

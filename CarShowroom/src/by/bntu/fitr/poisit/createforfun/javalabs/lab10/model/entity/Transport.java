@@ -19,9 +19,9 @@ public class Transport {
     }
 
     public Transport(Transport transport){
-        this.bodyType = transport.bodyType;
-        this.price = transport.price;
-        this.year = transport.year;
+        bodyType = transport.bodyType;
+        price = transport.price;
+        year = transport.year;
     }
     
     public int getPrice() {

@@ -19,7 +19,7 @@ public class ParkingImpl implements Parking {
     }
 
     public ParkingImpl(ParkingImpl parkingImpl) {
-        this.parking = parkingImpl.parking;
+        parking = parkingImpl.parking;
     }
 
 

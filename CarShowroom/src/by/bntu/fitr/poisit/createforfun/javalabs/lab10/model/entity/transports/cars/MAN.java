@@ -23,6 +23,12 @@ public class MAN extends Truck {
         this.transportColor = transportColor;
     }
 
+    public MAN(MAN man){
+        fuelTankCapacity = man.fuelTankCapacity;
+        vehicleType = man.vehicleType;
+        transportColor = man.transportColor;
+    }
+
     public double getFuelTankCapacity() {
         return fuelTankCapacity;
     }

@@ -19,8 +19,8 @@ public class CarShowroom {
     public static final String INSURANCE = "Insurance - ";
 
     public static void main(String[] args) {
-        Porsche porsche = new Porsche(30000, "SUV", 5, 2009, "All-wheel drive", "Auto", CAYENNE);
-        Porsche porsche1 = new Porsche(25000, "Hatchback", 5, 2007, "All-wheel drive", "Auto", PANAMERA);
+        Porsche porsche = new Porsche(30000, "SUV", 2009, 5, "All-wheel drive", "Auto", CAYENNE);
+        Porsche porsche1 = new Porsche(25000, "Hatchback", 2007, 5, "All-wheel drive", "Auto", PANAMERA);
         MAN man = new MAN(15000, "Auto transporter", 2000, 30, 400.6, "Tipper", BLACK);
 
         ParkingImpl parking = new ParkingImpl();
@@ -37,6 +37,8 @@ public class CarShowroom {
         log4jPrinter.print(WILL_BUY + porsche.getName());
         log4jPrinter.print(INSURANCE + Insurer.costOfInsurance(10, 26, 2003, parking.getTransport(0)));
         log4jPrinter.print(PROFIT + Manager.calculateProfit(buyer, parking) + CURRENCY);
+        log4jPrinter.print("Passenger capacity:" + Manager.calculateTotalPassengerCapacity(parking));
+        log4jPrinter.print("Average load capacity:" + Manager.calculateAverageLoadCapacity(parking));
         log4jPrinter.print(TOTAL_COST + Manager.determineTotalCost(parking) + CURRENCY);
         Manager.deletePurchase(parking, porsche);
         log4jPrinter.print(parking.toString());

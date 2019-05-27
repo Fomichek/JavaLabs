@@ -16,8 +16,8 @@ public class MAN extends Truck {
         transportColor = TransportColor.BLACK;
     }
 
-    public MAN(int price, String bodyType, int loadCapacity, int year, double fuelTankCapacity, String vehicleType, TransportColor transportColor) {
-        super(price, bodyType, loadCapacity, year);
+    public MAN(int price, String bodyType, int year, int loadCapacity, double fuelTankCapacity, String vehicleType, TransportColor transportColor) {
+        super(price, bodyType, year, loadCapacity);
         this.fuelTankCapacity = fuelTankCapacity;
         this.vehicleType = vehicleType;
         this.transportColor = transportColor;

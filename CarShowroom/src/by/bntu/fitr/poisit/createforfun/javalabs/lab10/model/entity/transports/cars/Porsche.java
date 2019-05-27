@@ -9,22 +9,23 @@ public class Porsche extends PassengerCar {
     private String typeOfGearbox;
     private PorscheModel porscheModel;
 
-    public Porsche(){
+    public Porsche() {
         super();
         typeOfDrive = "no name";
         typeOfGearbox = "no name";
         porscheModel = PorscheModel.BOXSTER;
     }
 
-    public Porsche(int price, String bodyType,
-            int numberOfPassenger,int year, String typeOfDrive,
-            String typeOfGearbox, PorscheModel porscheModel) {
-        super(price, bodyType, numberOfPassenger, year);
+    public Porsche(int price, String bodyType,int year,
+                   int numberOfPassenger,  String typeOfDrive,
+                   String typeOfGearbox, PorscheModel porscheModel) {
+        super(price, bodyType, year, numberOfPassenger);
         this.typeOfDrive = typeOfDrive;
         this.typeOfGearbox = typeOfGearbox;
         this.porscheModel = porscheModel;
     }
-    public Porsche(Porsche porsche){
+
+    public Porsche(Porsche porsche) {
         typeOfDrive = porsche.typeOfDrive;
         typeOfGearbox = porsche.typeOfGearbox;
         porscheModel = porsche.porscheModel;
@@ -54,7 +55,7 @@ public class Porsche extends PassengerCar {
         this.porscheModel = porscheModel;
     }
 
-    public String getName(){
+    public String getName() {
         return "Porsche";
     }
 

@@ -1,12 +1,12 @@
-2019-05-27 09:36:27 INFO  root:13 - 
+2019-05-27 10:35:06 INFO  root:13 - 
 Parking: 
 ---------------
 Porsche
 
 Price - 30000$
 Body type - SUV
-Year - 5
-Number of passenger - 2009
+Year - 2009
+Number of passenger - 5
 Type of drive - All-wheel drive
 Type of gearbox - Auto
 Model - CAYENNE
@@ -16,8 +16,8 @@ Porsche
 
 Price - 25000$
 Body type - Hatchback
-Year - 5
-Number of passenger - 2007
+Year - 2007
+Number of passenger - 5
 Type of drive - All-wheel drive
 Type of gearbox - Auto
 Model - PANAMERA
@@ -35,23 +35,29 @@ Transport color - BLACK
 
 ---------------
 
-2019-05-27 09:36:27 INFO  root:13 - 
+2019-05-27 10:35:06 INFO  root:13 - 
 Buyer
 Name - Anatoly
 Money - 40000$
 
-2019-05-27 09:36:27 INFO  root:13 - Will buy: Porsche
-2019-05-27 09:36:27 INFO  root:13 - Car showroom profit - 30000$
-2019-05-27 09:36:27 INFO  root:13 - Total cost - 70000$
-2019-05-27 09:36:27 INFO  root:13 - 
+2019-05-27 10:35:06 INFO  root:13 - Will buy: Porsche
+2019-05-27 10:35:06 INFO  root:13 - Insurance - 3360
+2019-05-27 10:35:06 TRACE Manager:27 - Attempt to get transport with index 0
+2019-05-27 10:35:06 INFO  root:13 - Car showroom profit - 30000$
+2019-05-27 10:35:06 INFO  root:13 - Passenger capacity:10
+2019-05-27 10:35:06 TRACE Manager:67 - Attempt to get transport with index 0
+2019-05-27 10:35:06 TRACE Manager:67 - Attempt to get transport with index 1
+2019-05-27 10:35:06 TRACE Manager:67 - Attempt to get transport with index 2
+2019-05-27 10:35:06 INFO  root:13 - Total cost - 70000$
+2019-05-27 10:35:06 INFO  root:13 - 
 Parking: 
 ---------------
 Porsche
 
 Price - 25000$
 Body type - Hatchback
-Year - 5
-Number of passenger - 2007
+Year - 2007
+Number of passenger - 5
 Type of drive - All-wheel drive
 Type of gearbox - Auto
 Model - PANAMERA
@@ -69,15 +75,15 @@ Transport color - BLACK
 
 ---------------
 
-2019-05-27 09:37:03 INFO  root:13 - 
+2019-05-27 10:42:55 INFO  root:13 - 
 Parking: 
 ---------------
 Porsche
 
 Price - 30000$
 Body type - SUV
-Year - 5
-Number of passenger - 2009
+Year - 2009
+Number of passenger - 5
 Type of drive - All-wheel drive
 Type of gearbox - Auto
 Model - CAYENNE
@@ -87,8 +93,8 @@ Porsche
 
 Price - 25000$
 Body type - Hatchback
-Year - 5
-Number of passenger - 2007
+Year - 2007
+Number of passenger - 5
 Type of drive - All-wheel drive
 Type of gearbox - Auto
 Model - PANAMERA
@@ -106,178 +112,30 @@ Transport color - BLACK
 
 ---------------
 
-2019-05-27 09:37:03 INFO  root:13 - 
+2019-05-27 10:42:55 INFO  root:13 - 
 Buyer
 Name - Anatoly
 Money - 40000$
 
-2019-05-27 09:37:03 INFO  root:13 - Will buy: Porsche
-2019-05-27 09:37:03 TRACE Manager:25 - Attempt to get transport with index 0
-2019-05-27 09:37:03 INFO  root:13 - Car showroom profit - 30000$
-2019-05-27 09:37:03 TRACE Manager:49 - Attempt to get transport with index 0
-2019-05-27 09:37:03 TRACE Manager:49 - Attempt to get transport with index 1
-2019-05-27 09:37:03 TRACE Manager:49 - Attempt to get transport with index 2
-2019-05-27 09:37:03 INFO  root:13 - Total cost - 70000$
-2019-05-27 09:37:03 INFO  root:13 - 
+2019-05-27 10:42:55 INFO  root:13 - Will buy: Porsche
+2019-05-27 10:42:55 INFO  root:13 - Insurance - 3360
+2019-05-27 10:42:55 TRACE Manager:28 - Attempt to get transport with index 0
+2019-05-27 10:42:55 INFO  root:13 - Car showroom profit - 30000$
+2019-05-27 10:42:55 INFO  root:13 - Passenger capacity:10
+2019-05-27 10:42:55 INFO  root:13 - Average load capacity:30
+2019-05-27 10:42:55 TRACE Manager:68 - Attempt to get transport with index 0
+2019-05-27 10:42:55 TRACE Manager:68 - Attempt to get transport with index 1
+2019-05-27 10:42:55 TRACE Manager:68 - Attempt to get transport with index 2
+2019-05-27 10:42:55 INFO  root:13 - Total cost - 70000$
+2019-05-27 10:42:55 INFO  root:13 - 
 Parking: 
 ---------------
 Porsche
 
 Price - 25000$
 Body type - Hatchback
-Year - 5
-Number of passenger - 2007
-Type of drive - All-wheel drive
-Type of gearbox - Auto
-Model - PANAMERA
-
----------------
-MAN
-
-Price - 15000$
-Body type - Auto transporter
-Year - 2000
-Load capacity - 30
-Fuel tank capacity - 400.6l
-Vehicle type - Tipper
-Transport color - BLACK
-
----------------
-
-2019-05-27 09:46:15 TRACE root:13 - 
-Parking: 
----------------
-Porsche
-
-Price - 30000$
-Body type - SUV
-Year - 5
-Number of passenger - 2009
-Type of drive - All-wheel drive
-Type of gearbox - Auto
-Model - CAYENNE
-
----------------
-Porsche
-
-Price - 25000$
-Body type - Hatchback
-Year - 5
-Number of passenger - 2007
-Type of drive - All-wheel drive
-Type of gearbox - Auto
-Model - PANAMERA
-
----------------
-MAN
-
-Price - 15000$
-Body type - Auto transporter
-Year - 2000
-Load capacity - 30
-Fuel tank capacity - 400.6l
-Vehicle type - Tipper
-Transport color - BLACK
-
----------------
-
-2019-05-27 09:46:15 TRACE root:13 - 
-Buyer
-Name - Anatoly
-Money - 40000$
-
-2019-05-27 09:46:15 TRACE root:13 - Will buy: Porsche
-2019-05-27 09:46:15 TRACE Manager:25 - Attempt to get transport with index 0
-2019-05-27 09:46:15 TRACE root:13 - Car showroom profit - 30000$
-2019-05-27 09:46:15 TRACE Manager:49 - Attempt to get transport with index 0
-2019-05-27 09:46:15 TRACE Manager:49 - Attempt to get transport with index 1
-2019-05-27 09:46:15 TRACE Manager:49 - Attempt to get transport with index 2
-2019-05-27 09:46:15 TRACE root:13 - Total cost - 70000$
-2019-05-27 09:46:15 TRACE root:13 - 
-Parking: 
----------------
-Porsche
-
-Price - 25000$
-Body type - Hatchback
-Year - 5
-Number of passenger - 2007
-Type of drive - All-wheel drive
-Type of gearbox - Auto
-Model - PANAMERA
-
----------------
-MAN
-
-Price - 15000$
-Body type - Auto transporter
-Year - 2000
-Load capacity - 30
-Fuel tank capacity - 400.6l
-Vehicle type - Tipper
-Transport color - BLACK
-
----------------
-
-2019-05-27 10:03:42 INFO  root:13 - 
-Parking: 
----------------
-Porsche
-
-Price - 30000$
-Body type - SUV
-Year - 5
-Number of passenger - 2009
-Type of drive - All-wheel drive
-Type of gearbox - Auto
-Model - CAYENNE
-
----------------
-Porsche
-
-Price - 25000$
-Body type - Hatchback
-Year - 5
-Number of passenger - 2007
-Type of drive - All-wheel drive
-Type of gearbox - Auto
-Model - PANAMERA
-
----------------
-MAN
-
-Price - 15000$
-Body type - Auto transporter
-Year - 2000
-Load capacity - 30
-Fuel tank capacity - 400.6l
-Vehicle type - Tipper
-Transport color - BLACK
-
----------------
-
-2019-05-27 10:03:42 INFO  root:13 - 
-Buyer
-Name - Anatoly
-Money - 40000$
-
-2019-05-27 10:03:42 INFO  root:13 - Will buy: Porsche
-2019-05-27 10:03:42 INFO  root:13 - Insurance - 3360
-2019-05-27 10:03:42 TRACE Manager:26 - Attempt to get transport with index 0
-2019-05-27 10:03:42 INFO  root:13 - Car showroom profit - 30000$
-2019-05-27 10:03:42 TRACE Manager:58 - Attempt to get transport with index 0
-2019-05-27 10:03:42 TRACE Manager:58 - Attempt to get transport with index 1
-2019-05-27 10:03:42 TRACE Manager:58 - Attempt to get transport with index 2
-2019-05-27 10:03:42 INFO  root:13 - Total cost - 70000$
-2019-05-27 10:03:42 INFO  root:13 - 
-Parking: 
----------------
-Porsche
-
-Price - 25000$
-Body type - Hatchback
-Year - 5
-Number of passenger - 2007
+Year - 2007
+Number of passenger - 5
 Type of drive - All-wheel drive
 Type of gearbox - Auto
 Model - PANAMERA

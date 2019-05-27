@@ -3,6 +3,8 @@ package by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.logic;
 import by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.container.ParkingImpl;
 import by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.entity.Buyer;
 import by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.entity.Transport;
+import by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.entity.transports.PassengerCar;
+import by.bntu.fitr.poisit.createforfun.javalabs.lab10.model.entity.transports.Truck;
 import org.apache.log4j.Logger;
 
 public class Manager {
@@ -65,11 +67,51 @@ public class Manager {
             try {
                 LOGGER.trace(GET_TRANSPORT + i);
                 total += parking.getTransport(i).getPrice();
-            } catch (IndexOutOfBoundsException e){
+            } catch (IndexOutOfBoundsException e) {
                 LOGGER.error(e.getMessage());
             }
         }
         return total + "";
+    }
+
+    public static String calculateTotalPassengerCapacity(ParkingImpl parking) {
+        int total = 0;
+        if (checkEmpty(parking)) {
+            LOGGER.warn(IS_EMPTY);
+            return IS_EMPTY;
+        }
+        for (int i = 0; i < parking.getSize(); i++) {
+            try {
+                LOGGER.trace(GET_TRANSPORT + i);
+                if (parking.getTransport(i) instanceof PassengerCar) {
+                    total += ((PassengerCar) parking.getTransport(i)).getNumberOfPassenger();
+                }
+            } catch (IndexOutOfBoundsException e) {
+                LOGGER.error(e.getMessage());
+            }
+        }
+        return total + "";
+    }
+
+    public static String calculateAverageLoadCapacity(ParkingImpl parking) {
+        int count = 0;
+        int loadCapacity = 0;
+        if (checkEmpty(parking)) {
+            LOGGER.warn(IS_EMPTY);
+            return IS_EMPTY;
+        }
+        for (int i = 0; i < parking.getSize(); i++) {
+            try {
+                LOGGER.trace(GET_TRANSPORT + i);
+                if (parking.getTransport(i) instanceof Truck) {
+                    loadCapacity += ((Truck) parking.getTransport(i)).getLoadCapacity();
+                    count++;
+                }
+            } catch (IndexOutOfBoundsException e) {
+                LOGGER.error(e.getMessage());
+            }
+        }
+        return loadCapacity / count + "";
     }
 
     public static boolean checkNull(Buyer buyer, ParkingImpl parking) {
